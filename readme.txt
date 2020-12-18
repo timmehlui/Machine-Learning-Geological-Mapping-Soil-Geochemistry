@@ -1,6 +1,5 @@
 Details
-Code related to manuscript titled "Applying machine learning methods to predict geology using soil sample geochemistry",
-authored by Timothy C.C. Lui, Daniel D. Gregory, Marek Anderson, Well-Shen Lee, and Sharon A. Cowling.
+Code related to manuscript titled "Applying machine learning methods to predict geology using soil sample geochemistry", authored by Timothy C.C. Lui, Daniel D. Gregory, Marek Anderson, Well-Shen Lee, and Sharon A. Cowling.
 
 Requirements
 Python 3.8
