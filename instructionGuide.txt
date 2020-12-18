@@ -1,4 +1,4 @@
-General descriptions on what the code does to inputted data.
+General descriptions on what the code does to inputted data. Cleaning steps can be tweaked based on what the input data set has or is lacking. Parameter choice can also be modified based on the user.
 
 correlatedFeatures.py reads the inputted data and calculates Pearson correlation coefficients for all pairs of features. It also test this correlation for various runs of a train-test split to compare how this randomness impacts correlation of features.
 
