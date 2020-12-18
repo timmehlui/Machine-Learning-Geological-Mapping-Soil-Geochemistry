@@ -15,3 +15,4 @@ pipelineTopography.py tests the utility of including topographic data.
 pipelineSamplingMethod.py compares the various sampling methods used.
 pipelineMCS.py compares the machine learning algorithms and the multiple classifier systems.
 sameClassOrderNine.py is a function used in pipelineMCS.py.
+TestData.csv is randomized data with same format of real data to test the functionality of the code.
