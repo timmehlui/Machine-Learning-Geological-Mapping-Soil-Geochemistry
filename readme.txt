@@ -11,7 +11,6 @@ matplotlib 3.3.1
 
 Files
 correlatedFeatures.py is used for data cleaning of correlated features.
-pipelineTopography.py tests the utility of including topographic data.
 pipelineSamplingMethod.py compares the various sampling methods used.
 pipelineMCS.py compares the machine learning algorithms and the multiple classifier systems.
 sameClassOrderNine.py is a function used in pipelineMCS.py.
