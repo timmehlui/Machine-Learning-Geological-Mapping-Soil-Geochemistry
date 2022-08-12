@@ -2,8 +2,6 @@ General descriptions on what the code does to inputted data. Cleaning steps can 
 
 alrCorrelationAnalysis.py reads the inputted data and calculates Pearson correlation coefficients for all pairs of features using an ALR and various divisors. It is used for feature selection based on correlation between features.
 
-pipelineTopography.py reads the inputted data and creates two datasets: one with topographic data one without. Then it runs nine machine learning algorithms and compares performance with and without topographic data, which are the .csv outputs.
-
 pipelineSamplingMethod.py reads the inputted data and compares performance of using six different sampling methods across nine machine learning algorithms. Results of performance are outputted in .csv files.
 
 pipelineMCS.py reads the inputted data and trains nine machine learning algorithms, which are used in the paper. Then it creates multiple classifier systems based on 5 architectures. Results are outputted in .csv files.
