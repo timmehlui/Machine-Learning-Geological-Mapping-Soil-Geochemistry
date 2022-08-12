@@ -4,4 +4,4 @@ alrCorrelationAnalysis.py reads the inputted data and calculates Pearson correla
 
 pipelineSamplingMethod.py reads the inputted data and compares performance of using six different sampling methods across nine machine learning algorithms. Results of performance are outputted in .csv files.
 
-pipelineMCS.py reads the inputted data and trains nine machine learning algorithms, which are used in the paper. Then it creates multiple classifier systems based on 5 architectures. Results are outputted in .csv files.
+pipelineComplexMCS.py reads the inputted data and trains nine machine learning algorithms, which are used in the paper. Then it creates multiple classifier systems based on 5 architectures. Results are outputted in .csv files.
