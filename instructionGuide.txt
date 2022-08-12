@@ -1,6 +1,6 @@
 General descriptions on what the code does to inputted data. Cleaning steps can be tweaked based on what the input data set has or is lacking. Parameter choice can also be modified based on the user.
 
-correlatedFeatures.py reads the inputted data and calculates Pearson correlation coefficients for all pairs of features. It also test this correlation for various runs of a train-test split to compare how this randomness impacts correlation of features.
+alrCorrelationAnalysis.py reads the inputted data and calculates Pearson correlation coefficients for all pairs of features using an ALR and various divisors. It is used for feature selection based on correlation between features.
 
 pipelineTopography.py reads the inputted data and creates two datasets: one with topographic data one without. Then it runs nine machine learning algorithms and compares performance with and without topographic data, which are the .csv outputs.
 
