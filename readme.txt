@@ -13,5 +13,5 @@ Files
 alrCorrelationAnalysis.py is used for data cleaning of correlated features.
 pipelineSamplingMethod.py compares the various sampling methods used.
 pipelineComplexMCS.py compares the machine learning algorithms and the multiple classifier systems.
-sameClassOrderNine.py is a function used in pipelineMCS.py.
+sameClassOrderNine.py is a function used in pipelineComplexMCS.py.
 TestData.csv is randomized data with same format of real data to test the functionality of the code.
